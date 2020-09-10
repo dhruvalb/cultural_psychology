@@ -10,13 +10,10 @@ This repo contains Dhruval Bhatt's critical responses to 5 academic writings in 
 
 **Term:** Fall 2019
 
-## Table of Contents
+## Quick Links
 - **[Response Papers](critical_responses):** *Contains all responses* 
-  - **[Ethical Guidelines for Autonomous Vehicle](critical_responses/)** *Topic: Ethical Frameworks*
-  - **[Algorithmic Fairness in Recidivism](response_files/2_Algorithm%20Fairness/DhruvalBhatt_Response2.pdf)** *Topic: AI and Algorithms*
-  - **[Role of Government Agencies in Data Driven Welfare](response_files/3_Inequality%20and%20Injustice/DhruvalBhatt_Response3.pdf)** *Topic: Inquality, Justice, and Human Rights*
-  - **[Using Amazon Ring for Policing Efforts](response_files/4_Policing/DhruvalBhatt_Response4.pdf)** *Topic: Policing and Surveillance*
-  - **[Regulating Fake News and Deep Fakes](response_files/5_Misinformation/DhruvalBhatt_Response5.pdf)** *Topic: Misinformation and Social Media* 
+  - **[Critical Response 1](critical_responses/)** 
+    -*Response to Markus and Kitayama’s, Culture and the Self: Implications for Cognition, Emotion and Motivation*
   
-- **[Kali's Tongue](term_papers/DhruvalBhatt_BigData_TermPaper.pdf)** *Mid-Term Paper*
-- **[Commentary on Seth Rozin's Human Rites](term_papers/DhruvalBhatt_BigData_TermPaper.pdf)** *Final Paper*
+- **[Kali's Tongue](term_papers/DhruvalBhatt_CulturePsych_Midterm.pdf)** *Mid-Term Paper*
+- **[Commentary on Seth Rozin's Human Rites](term_papers/DhruvalBhatt_CulturePsych_FinalPaper.pdf)** *Final Paper*
