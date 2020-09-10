@@ -12,8 +12,10 @@ This repo contains Dhruval Bhatt's critical responses to 5 academic writings in 
 
 ## Quick Links
 - **[Response Papers](critical_responses):** *Contains all responses* 
-  - **[Critical Response 1](critical_responses/)** 
-    -*Response to Markus and Kitayama’s, Culture and the Self: Implications for Cognition, Emotion and Motivation*
-  
+  - **[Critical Response 1](critical_responses/DhruvalBhatt_CriticalResponse_1.pdf)** *Response to Markus and Kitayama’s, Culture and the Self: Implications for Cognition, Emotion and Motivation*
+  - **[Critical Response 2](critical_responses/DhruvalBhatt_CriticalResponse_2.pdf)**
+  - **[Critical Response 3](critical_responses/DhruvalBhatt_CriticalResponse_3.pdf)**
+  - **[Critical Response 4](critical_responses/DhruvalBhatt_CriticalResponse_4.pdf)**
+  - **[Critical Response 5](critical_responses/DhruvalBhatt_CriticalResponse_5.pdf)**
 - **[Kali's Tongue](term_papers/DhruvalBhatt_CulturePsych_Midterm.pdf)** *Mid-Term Paper*
 - **[Commentary on Seth Rozin's Human Rites](term_papers/DhruvalBhatt_CulturePsych_FinalPaper.pdf)** *Final Paper*
