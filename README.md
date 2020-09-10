@@ -11,7 +11,7 @@ This repo contains Dhruval Bhatt's critical responses to 5 academic writings in 
 **Term:** Fall 2019
 
 ## Quick Links
-- **[Critical Response to:](critical_responses):** *Contains all responses* 
+- **[Critical Response to](critical_responses):** *Contains all responses* 
   - **[Markus and Kitayama’s, "Culture and the Self: Implications for Cognition, Emotion and Motivation"](critical_responses/DhruvalBhatt_CriticalResponse_1.pdf)** 
   - **[Fuambai Ahmadu's "Rites and Wrongs: An Insider/Outside Reflects on Power and Excision"](critical_responses/DhruvalBhatt_CriticalResponse_2.pdf)**  
   - **[Susan Moller Okin's "Is Multiculturalism Bad for Women?"](critical_responses/DhruvalBhatt_CriticalResponse_3.pdf)** 
